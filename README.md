@@ -1,6 +1,7 @@
 #### All Projects
 
 [Projects Site](https://react-projects.netlify.app/)
+(In this repo only basic projects)
 
 ## Corresponding Tutorial Topics
 
